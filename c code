@@ -1,0 +1,7 @@
+void main()
+{
+// declaration part
+
+// executable part
+printf("Hello World\n");
+}
